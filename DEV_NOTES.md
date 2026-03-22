@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Added CONTRIBUTING.md stub
 - Pinned dependency versions for reproducibility
+
+## 2026-03-23
+- Resolved TODO items from previous session
