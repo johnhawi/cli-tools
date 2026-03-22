@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Refactored module structure for clarity
 - Added healthcheck endpoint stub
+
+## 2026-03-23
+- Verified API endpoint response schema
+- Added CONTRIBUTING.md stub
+- Pinned dependency versions for reproducibility
