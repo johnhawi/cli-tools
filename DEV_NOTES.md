@@ -36,3 +36,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Addressed feedback from self code review
 - Added .editorconfig for consistent formatting
+
+## 2026-03-30
+- Noted known limitation in docs
